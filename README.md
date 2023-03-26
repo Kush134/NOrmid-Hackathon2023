@@ -1,5 +1,3 @@
----
-
 ### What we built 🤗
 **HealthifAI** is a smart *Web application* built to provide *Seamless Healthcare solutions for Providers* & is fueled by [**Linode**](https://linode.com). 🏥⚕️
 
